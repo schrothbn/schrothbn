@@ -10,11 +10,9 @@ On the frontend-side i have experience in:
 - React.js
 - Vanilla Javascript
 - JQuery
-  </div>
-  <a href="https://app.daily.dev/Bearliah"><img src="https://api.daily.dev/devcards/92177aa786ef4269958ed6212aa6df52.png?r=1wl" width="400" alt="Benjamin Schroth's Dev Card"/></a>
-</div>
+  
 <div>
-  <a href="https://twitter.com/DevBearliah"><img src="https://img.shields.io/badge/Twitter-blue?logo=Twitter&style=for-the-badge" alt="Twitter - DevBearliah" /></a>   <a href="https://www.linkedin.com/in/benjamin-schroth-580794181/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=LinkedIn&style=for-the-badge" alt="LinkedIn - Benjamin Schroth" /></a>  
+  <a href="https://www.linkedin.com/in/benjamin-schroth-580794181/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=LinkedIn&style=for-the-badge" alt="LinkedIn - Benjamin Schroth" /></a>  
 </div>
 
 <img src="https://komarev.com/ghpvc/?username=schrothbn&style=flat-square&color=blue" alt=""/>
